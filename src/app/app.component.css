@@ -1,0 +1,27 @@
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.nav-bar > ul{
+    list-style: none;
+    margin: 0;
+}
+
+.nav-bar > ul > li{
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.active{
+    color: red;
+}
+
+.user-input > button{
+    margin-right: 40px;
+}
+
+.user-input > input{
+    margin-right: 5px;
+}
